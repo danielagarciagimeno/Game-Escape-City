@@ -5,3 +5,4 @@
 Pero, ¡hay un problema!No sabes dónde está el puerto. 😱 Para encontrarlo, tendrás que explorar distintas ubicaciones de la isla, resolver acertijos y recolectar fragmentos de mapas que te guiarán a tu salida.
 
 Recorre la isla con cuidado, busca en cada rincón y une las piezas del mapa perdido. Solo entonces podrás descubrir el camino al puerto y lograr tu escape.
+# Actualización mínima para pull request
